@@ -3,7 +3,7 @@
 
 - 👀 I'm interested in process automation, and I'm studying about RPA
 - 🌱 I'm currently studying Computer Science, and I work at Zup Innovation as a Java/Kotlin developer
-- ✨ In this repository you will find my study notes, as well as projects that I use to practice waht I'm learning
+- ✨ In this repository you will find my study notes, as well as projects that I use to practice what I'm learning
  
 
 ## 💻 My main technologies 
