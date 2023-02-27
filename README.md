@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Leonardo Paulino
 ## Welcome to my GitHub profile
 
-- 👀 I'm interested in process automation, and I'm studying about RPA
+- 👀 I'm interested in java programming language, and I'm studying to become a java expert
 - 🌱 I'm currently studying Computer Science, and I work at Zup Innovation as a Java/Kotlin developer
 - ✨ In this repository you will find my study notes, as well as projects that I use to practice what I'm learning
  
