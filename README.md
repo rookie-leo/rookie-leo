@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile
 
 - 👀 I'm interested in java programming language, and I'm studying to become a java expert
-- 🌱 I'm currently studying Computer Science, and I work at Zup Innovation as a Java/Kotlin developer
+- 🌱 I'm currently studying Computer Science, and I work at IBM as a software developer
 - ✨ In this repository you will find my study notes, as well as projects that I use to practice what I'm learning
  
 
@@ -11,7 +11,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="90" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="90" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="90" height="90"/>
 
 ## 📚 Technologies I'm studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="90" height="90">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"  width="90" height="90"/>
+<div>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90" height="90"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="90" height="90"/>
+</div>
 
 ## 📫 How to reach me
 <div>
