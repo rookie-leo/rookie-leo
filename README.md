@@ -13,8 +13,9 @@
 
 ## 📚 Technologies I'm studying
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90" height="90"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="90" height="90"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="90" height="90"/>      
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" width="90" height="90"/>
 </div>
 
 ## 📫 How to reach me
@@ -24,11 +25,20 @@
 </div>
 
 ## 📊 My statistics
-<div>
-<a href="https://github.com/rookie-leo/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookie-leo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rookie-leo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<section>
+  <a href="https://github.com/rookie-leo/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookie-leo&layout=compact&langs_count=7&theme=dracula&hide=cpp,html,css"
+      alt="Top languages used by rookie-leo no GitHub"
+    />
+    <img 
+      height="180px" 
+      src="https://github-readme-stats.vercel.app/api?username=rookie-leo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+      alt="GitHub stats of rookie-leo"
+    />
+  </a>
+</section>
+
 <!---
 rookie-leo/rookie-leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
