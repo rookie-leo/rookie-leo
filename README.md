@@ -24,20 +24,6 @@
     <a href = "proleonardopa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📊 My statistics
-<section>
-  <a href="https://github.com/rookie-leo/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookie-leo&layout=compact&langs_count=7&theme=dracula&hide=cpp,html,css"
-      alt="Top languages used by rookie-leo no GitHub"
-    />
-    <img 
-      height="180px" 
-      src="https://github-readme-stats.vercel.app/api?username=rookie-leo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-      alt="GitHub stats of rookie-leo"
-    />
-  </a>
-</section>
 
 <!---
 rookie-leo/rookie-leo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
