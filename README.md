@@ -31,9 +31,9 @@
 
 ## 📫 How to reach me
 <div>
-    <a href="https://www.linkedin.com/in/leonardo-paulino-de-araujo-6b3412191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    <a href = "proleonardopa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://rookie-leo.github.io/"><img src="https://img.shields.io/badge/portifolio-brightgreen?style=for-the-badge" targer="_blank"></a>
+    <a href="https://www.linkedin.com/in/leonardo-silva-paulino-6b3412191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br> 
+    <a href = "proleonardopa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+    <a href="https://rookie-leo.github.io/"><img src="https://img.shields.io/badge/portifolio-brightgreen?style=for-the-badge" targer="_blank"></a><br>
 </div>
 
 
